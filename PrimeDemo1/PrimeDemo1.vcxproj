@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="stock10.cpp" />
+    <ClCompile Include="usestock2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stock10.h" />
