@@ -21,9 +21,15 @@
     <ClCompile Include="usestock2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stock10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
